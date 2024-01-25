@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+It uses ref and state to get the last and current count values and updates them on click.
+
+![Screenshot (508)](https://github.com/Abhishek-hash/counter/assets/54746811/33125377-e2cd-47c6-b065-b1453107d734)
+
+![Screenshot (509)](https://github.com/Abhishek-hash/counter/assets/54746811/fd74a835-f5b2-43d4-94e8-2afdf67502e5)
+
+![Screenshot (510)](https://github.com/Abhishek-hash/counter/assets/54746811/3bb44a39-49f4-46a7-b8fb-b9e9211cdf86)
+
+![Screenshot (511)](https://github.com/Abhishek-hash/counter/assets/54746811/312a5870-5b19-406e-b1c7-2fd10ddbc059)
